@@ -1,0 +1,16 @@
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/bin/Debug/net5.0/matriz-simetrica
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/bin/Debug/net5.0/matriz-simetrica.deps.json
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/bin/Debug/net5.0/matriz-simetrica.runtimeconfig.json
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/bin/Debug/net5.0/matriz-simetrica.runtimeconfig.dev.json
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/bin/Debug/net5.0/matriz-simetrica.dll
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/bin/Debug/net5.0/ref/matriz-simetrica.dll
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/bin/Debug/net5.0/matriz-simetrica.pdb
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/obj/Debug/net5.0/matriz-simetrica.csprojAssemblyReference.cache
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/obj/Debug/net5.0/matriz-simetrica.GeneratedMSBuildEditorConfig.editorconfig
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/obj/Debug/net5.0/matriz-simetrica.AssemblyInfoInputs.cache
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/obj/Debug/net5.0/matriz-simetrica.AssemblyInfo.cs
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/obj/Debug/net5.0/matriz-simetrica.csproj.CoreCompileInputs.cache
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/obj/Debug/net5.0/matriz-simetrica.dll
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/obj/Debug/net5.0/ref/matriz-simetrica.dll
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/obj/Debug/net5.0/matriz-simetrica.pdb
+/home/chijoku/RiderProjects/matriz-simetrica/matriz-simetrica/obj/Debug/net5.0/matriz-simetrica.genruntimeconfig.cache
